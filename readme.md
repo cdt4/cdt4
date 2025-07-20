@@ -24,3 +24,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=cdt4&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
+
+
+## Coming soon
+Nyx — encrypted steganography, plausible deniability, DNS exfil, and anti-forensics.
