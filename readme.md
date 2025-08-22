@@ -26,11 +26,13 @@
 ---
 
 
-## Coming soon
+## What im working on currently
 ## Nyx — encrypted steganography, plausible deniability, DNS exfil, and anti-forensics.
-(im lying nyx isnt coming soon) (im enjoying working on other things)
+## CryptCracker - your all in one encryption breaking tool kit
+## Loki - Comprehensive file inspection and manipulation platform with advanced editing tools.
 
 <div style="margin-top: -40px; margin-left: 35px; text-align: left;">
   <img src="folder/NYX.png" width="300" />
 </div>
+
 
