@@ -28,7 +28,9 @@
 
 ## Coming soon
 ## Nyx — encrypted steganography, plausible deniability, DNS exfil, and anti-forensics.
+(im lying nyx isnt coming soon) (im enjoying working on other things)
 
 <div style="margin-top: -40px; margin-left: 35px; text-align: left;">
   <img src="folder/NYX.png" width="300" />
 </div>
+
