@@ -162,7 +162,7 @@
 </g>
 <text class="note" x="55" y="252"
   font-family="'Courier New',Courier,monospace"
-  font-size="10" fill="#7a90bb" opacity=".7" font-style="italic">still deeply work in progress</text>
+  font-size="10" fill="#7a90bb" opacity=".7" font-style="italic"></text>
 <line class="tags" x1="40" y1="264" x2="640" y2="264" stroke="#42f5cb" stroke-width=".35" opacity=".18"/>
 <g class="tags" font-family="'Courier New',Courier,monospace" font-size="10">
   <rect x="40"  y="274" width="64" height="20" rx="4" fill="#42f5cb" opacity=".1"/>
